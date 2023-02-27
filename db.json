@@ -1,5 +1,5 @@
 {
-  "planeteers":[
+  "planeteers": [
     {
       "id": 1,
       "name": "Xiuhtezcatl Martinez",
@@ -71,7 +71,7 @@
       "twitter": " "
     },
     {
-      "id":8,
+      "id": 8,
       "name": "Alexandria Villaseñor",
       "fromUSA": true,
       "born": 2005,
@@ -79,6 +79,16 @@
       "quote": "Two years ago I began to research the connection between climate change and wildfires and learned that wildfires are burning longer and hotter because of climate change. I also saw Greta’s COP24 speech, and I thought that world leaders would take action to reduce greenhouse gas emissions. When they didn't, I was upset, and it was on the last day of COP24, December 14, that I began my strike at the U.N.",
       "pictureUrl": "https://www.abc.net.au/news/image/11556402-3x2-940x627.jpg",
       "twitter": "@AlexandriaV2005"
+    },
+    {
+      "name": "Greta Thunberg",
+      "fromUSA": false,
+      "born": 2003,
+      "bio": "It could be argued that without Greta Thunberg, there would be no youth climate strike movement. The 16-year-old Swedish climate activist has been striking outside of the parliament building in Stockholm since last August, and is the founder of the Fridays for Future youth climate strike movement. Her impassioned speeches have left politicians speechless and millions of young people inspired around the world. “Our house is falling apart and our leaders need to start acting accordingly because at the moment they are not,” Greta demanded of Members of the European Parliament and EU officials in Strasbourg in April.",
+      "quote": "Yes, we are failing, but there is still time to turn everything around — we can still fix this. I want you to act as if the house was on fire. Because it is.",
+      "pictureUrl": "https://160g7a3snajg2i1r662yjd5r-wpengine.netdna-ssl.com/wp-content/uploads/2019/12/greta.jpg",
+      "twitter": "@GretaThunberg",
+      "id": 9
     }
   ]
 }
